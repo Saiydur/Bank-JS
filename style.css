@@ -1,0 +1,23 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+ }
+ .submit-area{
+     padding: 40px !important;
+     box-shadow: 5px 5px 10px gray;
+     border-radius: 0px 20px 0px 20px;
+ }
+ #transaction-area{
+     display: none;
+ }
+ .deposite{
+    background-color: slateblue;
+ }
+ .withdraw{
+    background-color: lightsalmon;
+ }
+ .balance{
+    background-color: orange;
+ }
+ .status{
+     border-radius: 10px;
+ }
